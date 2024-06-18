@@ -20,6 +20,7 @@ Installation
     git clone https://github.com/your-username/phone-number-lookup.git
 2. Navigate into the project directory:
     cd phonelookup
+   
 Usage
 1. Replace "your_actual_api_key" in phonelookup.py with your actual Numverify API key.
 2. Run the application:
